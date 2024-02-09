@@ -1,16 +1,46 @@
-### Hi there 👋
+# Nicoli Silveira da Silva
 
-<!--
-**nck007/nck007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Informações Pessoais
 
-Here are some ideas to get you started:
+- *Nome:* Nicoli Silveira da Silva
+- *Localidade:* Caxias do Sul, RS
+- *E-mail:* nicoli.silveirati@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Objetivos
+
+Busco minha primeira oportunidade na área de programação como trainee, onde não apenas escreverei código, mas entregarei resultados. Meu objetivo é aprender novas tecnologias e compartilhar os conhecimentos adquiridos. Após concluir o ensino médio técnico, almejo cursar Engenharia de Software. Estou em constante busca para aprimorar minhas habilidades interpessoais, visando agregar valor tanto no ambiente profissional quanto no desenvolvimento das atividades.
+
+## 📚 Educação
+
+- *Ensino Médio Técnico* - Instituto Federal - Campus Caxias do Sul (Cursando)
+
+## 🎓 Cursos
+
+- Python 3 do Básico ao Avançado - Udemy
+- Modelagem de Dados - Fundação Bradesco
+
+## 💻 Habilidades Técnicas
+
+- *Linguagens de Programação:* Iniciante em HTML, CSS, JavaScript, Python.
+- *Ferramentas e Tecnologias:* Git, VSCode, Pacote Office.
+- *Sistemas Operacionais:* Windows.
+
+## 🌟 Competências Pessoais
+
+- Facilidade na absorção de novos conceitos.
+- Gosto de desafios, pois entendo que só há crescimento através deles.
+- Nos trabalhos em equipe, entrego colaboração e ideias.
+- Zelo e atenção aos detalhes.
+
+## 🌐 Interesses Pessoais
+
+- Inovação
+- Tecnologias
+- Games
+- Produtividade
+
+## 📬 Contato
+
+- *E-mail:* nicoli.silveirati@gmail.com
+
+Sinta-se à vontade para entrar em contato! Estou ansiosa para contribuir e aprender em projetos desafiadores. 👩‍💻✨
